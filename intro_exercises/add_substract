@@ -1,0 +1,11 @@
+def add(a,b)
+  a + b
+end
+
+def substract(a,b)
+  a - b
+end
+
+add(20, 45)
+
+substract(80, 10)
